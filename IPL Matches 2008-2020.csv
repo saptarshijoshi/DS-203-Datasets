@@ -1,0 +1,815 @@
+city,date,player_of_match,team1,team2,toss_winner,toss_decision,winner,result,result_margin
+Bangalore,18-04-2008,BB McCullum,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,140
+Chandigarh,19-04-2008,MEK Hussey,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,33
+Delhi,19-04-2008,MF Maharoof,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,bat,Delhi Daredevils,wickets,9
+Kolkata,20-04-2008,DJ Hussey,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,bat,Kolkata Knight Riders,wickets,5
+Mumbai,20-04-2008,MV Boucher,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,wickets,5
+Jaipur,21-04-2008,SR Watson,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,bat,Rajasthan Royals,wickets,6
+Hyderabad,22-04-2008,V Sehwag,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,Delhi Daredevils,wickets,9
+Chennai,23-04-2008,ML Hayden,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,runs,6
+Hyderabad,24-04-2008,YK Pathan,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3
+Chandigarh,25-04-2008,KC Sangakkara,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,runs,66
+Bangalore,26-04-2008,SR Watson,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7
+Chennai,26-04-2008,JDP Oram,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,wickets,9
+Chandigarh,27-04-2008,SM Katich,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,bat,Kings XI Punjab,wickets,4
+Mumbai,27-04-2008,AC Gilchrist,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,10
+Bangalore,28-04-2008,MS Dhoni,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,13
+Kolkata,29-04-2008,ST Jayasuriya,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,7
+Delhi,30-04-2008,GD McGrath,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Daredevils,runs,10
+Hyderabad,01-05-2008,SE Marsh,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,7
+Jaipur,01-05-2008,SA Asnodkar,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,45
+Chennai,02-05-2008,V Sehwag,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Delhi Daredevils,wickets,8
+Bangalore,03-05-2008,P Kumar,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,Royal Challengers Bangalore,runs,3
+Chandigarh,03-05-2008,IK Pathan,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,Kings XI Punjab,runs,9
+Jaipur,04-05-2008,Sohail Tanvir,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,wickets,8
+Mumbai,04-05-2008,SM Pollock,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,runs,29
+Bangalore,05-05-2008,S Sreesanth,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6
+Chennai,06-05-2008,AC Gilchrist,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,7
+Mumbai,07-05-2008,A Nehra,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,wickets,7
+Delhi,08-05-2008,MS Dhoni,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4
+Kolkata,08-05-2008,SC Ganguly,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,5
+Jaipur,09-05-2008,YK Pathan,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,field,Rajasthan Royals,wickets,8
+Chennai,10-05-2008,L Balaji,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,Chennai Super Kings,runs,18
+Hyderabad,11-05-2008,SC Ganguly,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,23
+Jaipur,11-05-2008,SR Watson,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,field,Rajasthan Royals,wickets,3
+Chandigarh,12-05-2008,SE Marsh,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kings XI Punjab,wickets,9
+Kolkata,13-05-2008,Shoaib Akhtar,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,23
+Mumbai,14-05-2008,ST Jayasuriya,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,wickets,9
+Delhi,15-05-2008,A Mishra,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,Delhi Daredevils,runs,12
+Mumbai,16-05-2008,SM Pollock,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,8
+Delhi,17-05-2008,DPMD Jayawardene,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Kings XI Punjab,runs,6
+Jaipur,17-05-2008,GC Smith,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,runs,65
+Hyderabad,18-05-2008,DJ Bravo,Deccan Chargers,Mumbai Indians,Deccan Chargers,field,Mumbai Indians,runs,25
+Kolkata,18-05-2008,M Ntini,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,runs,3
+Bangalore,19-05-2008,SP Goswami,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,5
+Kolkata,20-05-2008,YK Pathan,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6
+Chennai,21-05-2008,A Kumble,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,14
+Mumbai,21-05-2008,SE Marsh,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Kings XI Punjab,runs,1
+Chandigarh,23-05-2008,SE Marsh,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,field,Kings XI Punjab,wickets,6
+Chennai,24-05-2008,JA Morkel,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,10
+Delhi,24-05-2008,KD Karthik,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,field,Delhi Daredevils,wickets,5
+Hyderabad,25-05-2008,R Vinay Kumar,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,Royal Challengers Bangalore,wickets,5
+Kolkata,25-05-2008,Umar Gul,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,bat,Kolkata Knight Riders,wickets,3
+Jaipur,26-05-2008,Sohail Tanvir,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,wickets,5
+Hyderabad,27-05-2008,SK Raina,Deccan Chargers,Chennai Super Kings,Deccan Chargers,bat,Chennai Super Kings,wickets,7
+Bangalore,28-05-2008,CRD Fernando,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,9
+Chandigarh,28-05-2008,SE Marsh,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,41
+Mumbai,30-05-2008,SR Watson,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,field,Rajasthan Royals,runs,105
+Mumbai,31-05-2008,M Ntini,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,bat,Chennai Super Kings,wickets,9
+Mumbai,01-06-2008,YK Pathan,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3
+Cape Town,18-04-2009,R Dravid,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,75
+Cape Town,18-04-2009,SR Tendulkar,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,runs,19
+Cape Town,19-04-2009,RP Singh,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,bat,Deccan Chargers,wickets,8
+Cape Town,19-04-2009,DL Vettori,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,field,Delhi Daredevils,wickets,10
+Port Elizabeth,20-04-2009,M Muralitharan,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,92
+Durban,21-04-2009,CH Gayle,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,11
+Cape Town,22-04-2009,AC Gilchrist,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,24
+Cape Town,23-04-2009,YK Pathan,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,tie,NA
+Durban,23-04-2009,AB de Villiers,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,bat,Delhi Daredevils,runs,9
+Durban,24-04-2009,RS Bopara,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,wickets,7
+Durban,25-04-2009,PP Ojha,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Deccan Chargers,runs,12
+Cape Town,26-04-2009,KC Sangakkara,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,Kings XI Punjab,runs,27
+Port Elizabeth,26-04-2009,TM Dilshan,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Delhi Daredevils,wickets,6
+Durban,27-04-2009,HH Gibbs,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,6
+Port Elizabeth,27-04-2009,SR Tendulkar,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,92
+Centurion,28-04-2009,YK Pathan,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Rajasthan Royals,wickets,5
+Durban,29-04-2009,KC Sangakkara,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Kings XI Punjab,runs,3
+Durban,29-04-2009,MV Boucher,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bangalore,wickets,5
+Centurion,30-04-2009,SK Raina,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,38
+Centurion,30-04-2009,DP Nannes,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,6
+Durban,01-05-2009,Yuvraj Singh,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,8
+East London,01-05-2009,JP Duminy,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,9
+Johannesburg,02-05-2009,SB Jakati,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,Chennai Super Kings,runs,18
+Port Elizabeth,02-05-2009,YK Pathan,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,Rajasthan Royals,wickets,3
+Johannesburg,03-05-2009,JH Kallis,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bangalore,wickets,9
+Port Elizabeth,03-05-2009,DPMD Jayawardene,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kings XI Punjab,wickets,6
+East London,04-05-2009,MS Dhoni,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,78
+Durban,05-05-2009,G Gambhir,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Daredevils,wickets,9
+Durban,05-05-2009,GC Smith,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,78
+Centurion,06-05-2009,RG Sharma,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Deccan Chargers,runs,19
+Centurion,07-05-2009,ML Hayden,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,12
+Centurion,07-05-2009,A Singh,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7
+East London,08-05-2009,A Nehra,Delhi Daredevils,Mumbai Indians,Mumbai Indians,bat,Delhi Daredevils,wickets,7
+Kimberley,09-05-2009,S Badrinath,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,7
+Kimberley,09-05-2009,DPMD Jayawardene,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,3
+Johannesburg,10-05-2009,A Mishra,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,field,Delhi Daredevils,wickets,7
+Port Elizabeth,10-05-2009,JP Duminy,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,16
+Kimberley,11-05-2009,DR Smith,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,Deccan Chargers,runs,53
+Centurion,12-05-2009,Harbhajan Singh,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Mumbai Indians,wickets,8
+Centurion,12-05-2009,LRPL Taylor,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6
+Durban,13-05-2009,R Bhatia,Deccan Chargers,Delhi Daredevils,Deccan Chargers,field,Delhi Daredevils,runs,12
+Durban,14-05-2009,SK Warne,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,2
+Durban,14-05-2009,LRPL Taylor,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bangalore,wickets,2
+Johannesburg,16-05-2009,RG Sharma,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,field,Deccan Chargers,wickets,6
+Port Elizabeth,16-05-2009,ML Hayden,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,wickets,7
+Johannesburg,17-05-2009,Yuvraj Singh,Deccan Chargers,Kings XI Punjab,Deccan Chargers,field,Kings XI Punjab,runs,1
+Centurion,18-05-2009,BJ Hodge,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,wickets,7
+Johannesburg,19-05-2009,JH Kallis,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,bat,Royal Challengers Bangalore,wickets,7
+Durban,20-05-2009,M Muralitharan,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,24
+Durban,20-05-2009,LR Shukla,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4
+Centurion,21-05-2009,MK Pandey,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,12
+Centurion,21-05-2009,V Sehwag,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,field,Delhi Daredevils,wickets,4
+Centurion,22-05-2009,AC Gilchrist,Delhi Daredevils,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,6
+Johannesburg,23-05-2009,MK Pandey,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6
+Johannesburg,24-05-2009,A Kumble,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,field,Deccan Chargers,runs,6
+Mumbai,12-03-2010,AD Mathews,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,field,Kolkata Knight Riders,runs,11
+Chandigarh,13-03-2010,G Gambhir,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,5
+Mumbai,13-03-2010,YK Pathan,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,runs,4
+Chennai,14-03-2010,WPUJC Vaas,Chennai Super Kings,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,31
+Kolkata,14-03-2010,MK Tiwary,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7
+Ahmedabad,15-03-2010,V Sehwag,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,6
+Bangalore,16-03-2010,JH Kallis,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,bat,Royal Challengers Bangalore,wickets,8
+Kolkata,16-03-2010,MS Dhoni,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,55
+Delhi,17-03-2010,SR Tendulkar,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,field,Mumbai Indians,runs,98
+Bangalore,18-03-2010,JH Kallis,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,10
+Cuttack,19-03-2010,A Symonds,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Deccan Chargers,runs,6
+Delhi,19-03-2010,ML Hayden,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,bat,Chennai Super Kings,wickets,5
+Ahmedabad,20-03-2010,AA Jhunjhunwala,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,34
+Mumbai,20-03-2010,JH Kallis,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,wickets,7
+Chennai,21-03-2010,J Theron,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,field,Kings XI Punjab,tie,NA
+Cuttack,21-03-2010,A Symonds,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,Deccan Chargers,runs,10
+Mumbai,22-03-2010,SR Tendulkar,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,wickets,7
+Bangalore,23-03-2010,RV Uthappa,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,runs,36
+Chandigarh,24-03-2010,AC Voges,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,31
+Bangalore,25-03-2010,KM Jadhav,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,field,Delhi Daredevils,runs,17
+Mumbai,25-03-2010,SR Tendulkar,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,wickets,5
+Ahmedabad,26-03-2010,YK Pathan,Rajasthan Royals,Deccan Chargers,Deccan Chargers,bat,Rajasthan Royals,wickets,8
+Chandigarh,27-03-2010,MK Tiwary,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,39
+Ahmedabad,28-03-2010,NV Ojha,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,runs,17
+Mumbai,28-03-2010,Harbhajan Singh,Deccan Chargers,Mumbai Indians,Deccan Chargers,field,Mumbai Indians,runs,41
+Delhi,29-03-2010,DA Warner,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Delhi Daredevils,runs,40
+Mumbai,30-03-2010,SL Malinga,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Mumbai Indians,wickets,4
+Chennai,31-03-2010,M Vijay,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,wickets,5
+Delhi,31-03-2010,KD Karthik,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Delhi Daredevils,runs,67
+Kolkata,01-04-2010,SC Ganguly,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,24
+Chandigarh,02-04-2010,KP Pietersen,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,Royal Challengers Bangalore,wickets,6
+Chennai,03-04-2010,M Vijay,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,runs,23
+Mumbai,03-04-2010,AT Rayudu,Mumbai Indians,Deccan Chargers,Mumbai Indians,bat,Mumbai Indians,runs,63
+Delhi,04-04-2010,PD Collingwood,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,bat,Delhi Daredevils,runs,37
+Kolkata,04-04-2010,DPMD Jayawardene,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,Kings XI Punjab,wickets,8
+Nagpur,05-04-2010,SK Warne,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,2
+Chennai,06-04-2010,SK Raina,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,24
+Jaipur,07-04-2010,MJ Lumb,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,bat,Rajasthan Royals,wickets,9
+Kolkata,07-04-2010,SC Ganguly,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,14
+Bangalore,08-04-2010,TL Suman,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,7
+Chandigarh,09-04-2010,KC Sangakkara,Kings XI Punjab,Mumbai Indians,Mumbai Indians,bat,Kings XI Punjab,wickets,6
+Bangalore,10-04-2010,R Vinay Kumar,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7
+Nagpur,10-04-2010,RJ Harris,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,bat,Deccan Chargers,wickets,6
+Delhi,11-04-2010,PP Chawla,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Kings XI Punjab,wickets,7
+Jaipur,11-04-2010,SR Tendulkar,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,runs,37
+Nagpur,12-04-2010,Harmeet Singh,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,runs,13
+Chennai,13-04-2010,R Ashwin,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,wickets,9
+Mumbai,13-04-2010,KA Pollard,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,Mumbai Indians,runs,39
+Jaipur,14-04-2010,KP Pietersen,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,wickets,5
+Chennai,15-04-2010,G Gambhir,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Delhi Daredevils,wickets,6
+Dharamsala,16-04-2010,RG Sharma,Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,5
+Bangalore,17-04-2010,R McLaren,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,runs,57
+Kolkata,17-04-2010,JD Unadkat,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,wickets,8
+Delhi,18-04-2010,A Symonds,Delhi Daredevils,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,11
+Dharamsala,18-04-2010,MS Dhoni,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6
+Kolkata,19-04-2010,M Kartik,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Kolkata Knight Riders,wickets,9
+Mumbai,21-04-2010,KA Pollard,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,35
+Mumbai,22-04-2010,DE Bollinger,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,38
+Mumbai,24-04-2010,A Kumble,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,bat,Royal Challengers Bangalore,wickets,9
+Mumbai,25-04-2010,SK Raina,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,22
+Chennai,08-04-2011,S Anirudha,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,runs,2
+Hyderabad,09-04-2011,SK Trivedi,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,8
+Kochi,09-04-2011,AB de Villiers,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,Royal Challengers Bangalore,wickets,6
+Delhi,10-04-2011,SL Malinga,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,Mumbai Indians,wickets,8
+Mumbai,10-04-2011,SB Wagh,Pune Warriors,Kings XI Punjab,Kings XI Punjab,bat,Pune Warriors,wickets,7
+Kolkata,11-04-2011,JH Kallis,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,9
+Bangalore,12-04-2011,SR Tendulkar,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,9
+Jaipur,12-04-2011,SK Warne,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,bat,Rajasthan Royals,wickets,6
+Chandigarh,13-04-2011,PC Valthaty,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,field,Kings XI Punjab,wickets,6
+Mumbai,13-04-2011,MD Mishra,Pune Warriors,Kochi Tuskers Kerala,Kochi Tuskers Kerala,bat,Pune Warriors,wickets,4
+Hyderabad,14-04-2011,DW Steyn,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,runs,33
+Jaipur,15-04-2011,G Gambhir,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,9
+Mumbai,15-04-2011,BB McCullum,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,wickets,8
+Chennai,16-04-2011,MEK Hussey,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,21
+Hyderabad,16-04-2011,PC Valthaty,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,8
+Kolkata,17-04-2011,L Balaji,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8
+Mumbai,17-04-2011,Yuvraj Singh,Pune Warriors,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,3
+Kochi,18-04-2011,BB McCullum,Kochi Tuskers Kerala,Chennai Super Kings,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,wickets,7
+Delhi,19-04-2011,S Sohal,Delhi Daredevils,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,16
+Kolkata,20-04-2011,DPMD Jayawardene,Kolkata Knight Riders,Kochi Tuskers Kerala,Kolkata Knight Riders,field,Kochi Tuskers Kerala,runs,6
+Mumbai,20-04-2011,MM Patel,Mumbai Indians,Pune Warriors,Pune Warriors,bat,Mumbai Indians,wickets,7
+Chandigarh,21-04-2011,SE Marsh,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,48
+Kolkata,22-04-2011,CH Gayle,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9
+Mumbai,22-04-2011,Harbhajan Singh,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,8
+Delhi,23-04-2011,DA Warner,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Delhi Daredevils,runs,29
+Hyderabad,24-04-2011,SL Malinga,Deccan Chargers,Mumbai Indians,Deccan Chargers,field,Mumbai Indians,runs,37
+Jaipur,24-04-2011,SK Warne,Rajasthan Royals,Kochi Tuskers Kerala,Rajasthan Royals,field,Rajasthan Royals,wickets,8
+Chennai,25-04-2011,MEK Hussey,Chennai Super Kings,Pune Warriors,Pune Warriors,field,Chennai Super Kings,runs,25
+Delhi,26-04-2011,V Kohli,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,3
+Kochi,27-04-2011,I Sharma,Kochi Tuskers Kerala,Deccan Chargers,Kochi Tuskers Kerala,field,Deccan Chargers,runs,55
+Mumbai,27-04-2011,DE Bollinger,Pune Warriors,Chennai Super Kings,Pune Warriors,bat,Chennai Super Kings,wickets,8
+Delhi,28-04-2011,MK Tiwary,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,field,Kolkata Knight Riders,runs,17
+Bangalore,29-04-2011,V Kohli,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,Royal Challengers Bangalore,runs,26
+Jaipur,29-04-2011,J Botha,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,wickets,7
+Kochi,30-04-2011,V Sehwag,Kochi Tuskers Kerala,Delhi Daredevils,Delhi Daredevils,bat,Delhi Daredevils,runs,38
+Kolkata,30-04-2011,Iqbal Abdulla,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8
+Chennai,01-05-2011,JA Morkel,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,19
+Jaipur,01-05-2011,LRPL Taylor,Rajasthan Royals,Pune Warriors,Rajasthan Royals,field,Rajasthan Royals,wickets,6
+Delhi,02-05-2011,P Parameswaran,Delhi Daredevils,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,wickets,7
+Mumbai,02-05-2011,KA Pollard,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Mumbai Indians,runs,23
+Hyderabad,03-05-2011,YK Pathan,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,field,Kolkata Knight Riders,runs,20
+Chennai,04-05-2011,MEK Hussey,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,8
+Mumbai,04-05-2011,R Sharma,Pune Warriors,Mumbai Indians,Pune Warriors,field,Mumbai Indians,runs,21
+Hyderabad,05-05-2011,V Sehwag,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,4
+Kochi,05-05-2011,BJ Hodge,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,field,Kochi Tuskers Kerala,runs,17
+Bangalore,06-05-2011,CH Gayle,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,runs,85
+Kolkata,07-05-2011,Iqbal Abdulla,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Kolkata Knight Riders,runs,10
+Mumbai,07-05-2011,AT Rayudu,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,runs,32
+Bangalore,08-05-2011,CH Gayle,Royal Challengers Bangalore,Kochi Tuskers Kerala,Kochi Tuskers Kerala,bat,Royal Challengers Bangalore,wickets,9
+Chandigarh,08-05-2011,R Sharma,Kings XI Punjab,Pune Warriors,Kings XI Punjab,bat,Pune Warriors,wickets,5
+Jaipur,09-05-2011,M Vijay,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,runs,63
+Chandigarh,10-05-2011,BA Bhatt,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,runs,76
+Hyderabad,10-05-2011,MR Marsh,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,Pune Warriors,wickets,6
+Jaipur,11-05-2011,S Aravind,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9
+Chennai,12-05-2011,MS Dhoni,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Chennai Super Kings,runs,18
+Indore,13-05-2011,KD Karthik,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6
+Bangalore,14-05-2011,CH Gayle,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4
+Mumbai,14-05-2011,A Mishra,Mumbai Indians,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,10
+Dharamsala,15-05-2011,PP Chawla,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Kings XI Punjab,runs,29
+Indore,15-05-2011,BJ Hodge,Kochi Tuskers Kerala,Rajasthan Royals,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,wickets,8
+Mumbai,16-05-2011,A Mishra,Pune Warriors,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,wickets,6
+Dharamsala,17-05-2011,AC Gilchrist,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,Kings XI Punjab,runs,111
+Chennai,18-05-2011,WP Saha,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,bat,Chennai Super Kings,runs,11
+Mumbai,19-05-2011,YK Pathan,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7
+Mumbai,20-05-2011,SR Watson,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,wickets,10
+Delhi,21-05-2011,NA,Delhi Daredevils,Pune Warriors,Delhi Daredevils,bat,NA,NA,NA
+Dharamsala,21-05-2011,S Dhawan,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,field,Deccan Chargers,runs,82
+Bangalore,22-05-2011,CH Gayle,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8
+Kolkata,22-05-2011,JEC Franklin,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5
+Mumbai,24-05-2011,SK Raina,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6
+Mumbai,25-05-2011,MM Patel,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,4
+Chennai,27-05-2011,CH Gayle,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,runs,43
+Chennai,28-05-2011,M Vijay,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,58
+Chennai,04-04-2012,RE Levi,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8
+Kolkata,05-04-2012,IK Pathan,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,8
+Jaipur,06-04-2012,AM Rahane,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Rajasthan Royals,runs,31
+Mumbai,06-04-2012,SPD Smith,Mumbai Indians,Pune Warriors,Mumbai Indians,field,Pune Warriors,runs,28
+Bangalore,07-04-2012,AB de Villiers,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Royal Challengers Bangalore,runs,20
+Visakhapatnam,07-04-2012,RA Jadeja,Deccan Chargers,Chennai Super Kings,Deccan Chargers,field,Chennai Super Kings,runs,74
+Jaipur,08-04-2012,BJ Hodge,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,22
+Pune,08-04-2012,MN Samuels,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,Pune Warriors,runs,22
+Visakhapatnam,09-04-2012,RG Sharma,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Mumbai Indians,wickets,5
+Bangalore,10-04-2012,L Balaji,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,42
+Delhi,10-04-2012,M Morkel,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,field,Delhi Daredevils,wickets,8
+Mumbai,11-04-2012,KA Pollard,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,27
+Chandigarh,12-04-2012,AD Mascarenhas,Kings XI Punjab,Pune Warriors,Kings XI Punjab,field,Kings XI Punjab,wickets,7
+Chennai,12-04-2012,F du Plessis,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,wickets,5
+Kolkata,13-04-2012,Shakib Al Hasan,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,wickets,5
+Pune,14-04-2012,JD Ryder,Pune Warriors,Chennai Super Kings,Chennai Super Kings,bat,Pune Warriors,wickets,7
+Bangalore,15-04-2012,AM Rahane,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,59
+Kolkata,15-04-2012,SP Narine,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kings XI Punjab,runs,2
+Mumbai,16-04-2012,S Nadeem,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,7
+Bangalore,17-04-2012,CH Gayle,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,bat,Royal Challengers Bangalore,wickets,6
+Jaipur,17-04-2012,BJ Hodge,Rajasthan Royals,Deccan Chargers,Deccan Chargers,bat,Rajasthan Royals,wickets,5
+Chandigarh,18-04-2012,G Gambhir,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,Kolkata Knight Riders,wickets,8
+Chennai,19-04-2012,KMDN Kulasekara,Chennai Super Kings,Pune Warriors,Pune Warriors,field,Chennai Super Kings,runs,13
+Delhi,19-04-2012,KP Pietersen,Delhi Daredevils,Deccan Chargers,Deccan Chargers,bat,Delhi Daredevils,wickets,5
+Chandigarh,20-04-2012,CH Gayle,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,5
+Chennai,21-04-2012,F du Plessis,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,7
+Delhi,21-04-2012,SC Ganguly,Delhi Daredevils,Pune Warriors,Delhi Daredevils,field,Pune Warriors,runs,20
+Cuttack,22-04-2012,B Lee,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5
+Mumbai,22-04-2012,SE Marsh,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Kings XI Punjab,wickets,6
+Jaipur,23-04-2012,AB de Villiers,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,runs,46
+Pune,24-04-2012,V Sehwag,Pune Warriors,Delhi Daredevils,Pune Warriors,bat,Delhi Daredevils,wickets,8
+Chandigarh,25-04-2012,AT Rayudu,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Mumbai Indians,wickets,4
+Pune,26-04-2012,CL White,Pune Warriors,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,18
+Delhi,27-04-2012,V Sehwag,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,Delhi Daredevils,runs,37
+Chennai,28-04-2012,Mandeep Singh,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,bat,Kings XI Punjab,runs,7
+Kolkata,28-04-2012,G Gambhir,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,47
+Delhi,29-04-2012,V Sehwag,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,bat,Delhi Daredevils,runs,1
+Mumbai,29-04-2012,DW Steyn,Mumbai Indians,Deccan Chargers,Mumbai Indians,field,Mumbai Indians,wickets,5
+Chennai,30-04-2012,G Gambhir,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,wickets,5
+Cuttack,01-05-2012,KC Sangakkara,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,Deccan Chargers,runs,13
+Jaipur,01-05-2012,P Negi,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,bat,Delhi Daredevils,wickets,6
+Bangalore,02-05-2012,Azhar Mahmood,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,4
+Pune,03-05-2012,SL Malinga,Pune Warriors,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,1
+Chennai,04-05-2012,SK Raina,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,10
+Chandigarh,05-05-2012,SR Watson,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,43
+Kolkata,05-05-2012,SP Narine,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,7
+Bangalore,06-05-2012,AB de Villiers,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,5
+Mumbai,06-05-2012,DR Smith,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,wickets,2
+Delhi,07-05-2012,JH Kallis,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,wickets,6
+Hyderabad,08-05-2012,Mandeep Singh,Deccan Chargers,Kings XI Punjab,Deccan Chargers,field,Kings XI Punjab,runs,25
+Pune,08-05-2012,SR Watson,Pune Warriors,Rajasthan Royals,Pune Warriors,bat,Rajasthan Royals,wickets,7
+Mumbai,09-05-2012,CH Gayle,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9
+Hyderabad,10-05-2012,DA Warner,Deccan Chargers,Delhi Daredevils,Deccan Chargers,bat,Delhi Daredevils,wickets,9
+Jaipur,10-05-2012,BW Hilfenhaus,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4
+Pune,11-05-2012,CH Gayle,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,field,Royal Challengers Bangalore,runs,35
+Chennai,12-05-2012,BW Hilfenhaus,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,field,Chennai Super Kings,wickets,9
+Kolkata,12-05-2012,RG Sharma,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,27
+Chandigarh,13-05-2012,DJ Hussey,Kings XI Punjab,Deccan Chargers,Deccan Chargers,bat,Kings XI Punjab,wickets,4
+Jaipur,13-05-2012,A Chandila,Rajasthan Royals,Pune Warriors,Rajasthan Royals,bat,Rajasthan Royals,runs,45
+Bangalore,14-05-2012,AT Rayudu,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5
+Kolkata,14-05-2012,MEK Hussey,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5
+Delhi,15-05-2012,UT Yadav,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,bat,Delhi Daredevils,wickets,5
+Mumbai,16-05-2012,SP Narine,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,runs,32
+Delhi,17-05-2012,CH Gayle,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,field,Royal Challengers Bangalore,runs,21
+Dharamsala,17-05-2012,AC Gilchrist,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,field,Kings XI Punjab,wickets,6
+Hyderabad,18-05-2012,DW Steyn,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,bat,Deccan Chargers,wickets,5
+Dharamsala,19-05-2012,UT Yadav,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,6
+Pune,19-05-2012,Shakib Al Hasan,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,34
+Hyderabad,20-05-2012,DW Steyn,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,runs,9
+Jaipur,20-05-2012,DR Smith,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,wickets,10
+Pune,22-05-2012,YK Pathan,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,18
+Bangalore,23-05-2012,MS Dhoni,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,runs,38
+Chennai,25-05-2012,M Vijay,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,field,Chennai Super Kings,runs,86
+Chennai,27-05-2012,MS Bisla,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Kolkata Knight Riders,wickets,5
+Kolkata,03-04-2013,SP Narine,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6
+Bangalore,04-04-2013,CH Gayle,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,runs,2
+Hyderabad,05-04-2013,A Mishra,Sunrisers Hyderabad,Pune Warriors,Pune Warriors,field,Sunrisers Hyderabad,runs,22
+Chennai,06-04-2013,KA Pollard,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,9
+Delhi,06-04-2013,R Dravid,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,5
+Hyderabad,07-04-2013,GH Vihari,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,tie,NA
+Pune,07-04-2013,M Vohra,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,Kings XI Punjab,wickets,8
+Jaipur,08-04-2013,SK Trivedi,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,19
+Bangalore,09-04-2013,V Kohli,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,wickets,7
+Mumbai,09-04-2013,KD Karthik,Mumbai Indians,Delhi Daredevils,Mumbai Indians,bat,Mumbai Indians,runs,44
+Chandigarh,10-04-2013,MEK Hussey,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,10
+Bangalore,11-04-2013,CH Gayle,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8
+Pune,11-04-2013,AJ Finch,Pune Warriors,Rajasthan Royals,Rajasthan Royals,bat,Pune Warriors,wickets,7
+Delhi,12-04-2013,A Mishra,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,Sunrisers Hyderabad,wickets,3
+Chennai,13-04-2013,RA Jadeja,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,wickets,4
+Mumbai,13-04-2013,RG Sharma,Mumbai Indians,Pune Warriors,Mumbai Indians,bat,Mumbai Indians,runs,41
+Jaipur,14-04-2013,JP Faulkner,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,field,Rajasthan Royals,wickets,6
+Kolkata,14-04-2013,G Gambhir,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,48
+Chennai,15-04-2013,SPD Smith,Chennai Super Kings,Pune Warriors,Pune Warriors,bat,Pune Warriors,runs,24
+Bangalore,16-04-2013,V Kohli,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,field,Royal Challengers Bangalore,tie,NA
+Chandigarh,16-04-2013,MS Gony,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kings XI Punjab,runs,4
+Jaipur,17-04-2013,AM Rahane,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,runs,87
+Pune,17-04-2013,A Mishra,Pune Warriors,Sunrisers Hyderabad,Pune Warriors,field,Sunrisers Hyderabad,runs,11
+Delhi,18-04-2013,MEK Hussey,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,86
+Hyderabad,19-04-2013,GH Vihari,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,bat,Sunrisers Hyderabad,wickets,5
+Bangalore,20-04-2013,R Vinay Kumar,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7
+Kolkata,20-04-2013,RA Jadeja,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,wickets,4
+Chandigarh,21-04-2013,DA Miller,Kings XI Punjab,Pune Warriors,Kings XI Punjab,field,Kings XI Punjab,wickets,7
+Delhi,21-04-2013,V Sehwag,Delhi Daredevils,Mumbai Indians,Mumbai Indians,bat,Delhi Daredevils,wickets,9
+Chennai,22-04-2013,MEK Hussey,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,5
+Bangalore,23-04-2013,CH Gayle,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,Royal Challengers Bangalore,runs,130
+Delhi,23-04-2013,Harmeet Singh,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,5
+Kolkata,24-04-2013,DR Smith,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,5
+Chennai,25-04-2013,MS Dhoni,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,5
+Kolkata,26-04-2013,JH Kallis,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,bat,Kolkata Knight Riders,wickets,6
+Jaipur,27-04-2013,JP Faulkner,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,wickets,8
+Mumbai,27-04-2013,DR Smith,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Mumbai Indians,runs,58
+Chennai,28-04-2013,MEK Hussey,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,14
+Raipur,28-04-2013,DA Warner,Delhi Daredevils,Pune Warriors,Pune Warriors,field,Delhi Daredevils,runs,15
+Jaipur,29-04-2013,SV Samson,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,wickets,4
+Mumbai,29-04-2013,RG Sharma,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Mumbai Indians,runs,4
+Pune,30-04-2013,MS Dhoni,Pune Warriors,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,37
+Hyderabad,01-05-2013,I Sharma,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,wickets,7
+Raipur,01-05-2013,DA Warner,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Daredevils,wickets,7
+Chennai,02-05-2013,SK Raina,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,15
+Pune,02-05-2013,AB de Villiers,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,17
+Kolkata,03-05-2013,YK Pathan,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,wickets,8
+Hyderabad,04-05-2013,DJG Sammy,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,bat,Sunrisers Hyderabad,wickets,6
+Jaipur,05-05-2013,AM Rahane,Rajasthan Royals,Pune Warriors,Pune Warriors,bat,Rajasthan Royals,wickets,5
+Mumbai,05-05-2013,MG Johnson,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,runs,60
+Chandigarh,06-05-2013,DA Miller,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,field,Kings XI Punjab,wickets,6
+Jaipur,07-05-2013,AM Rahane,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,bat,Rajasthan Royals,wickets,9
+Mumbai,07-05-2013,SR Tendulkar,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,runs,65
+Hyderabad,08-05-2013,SK Raina,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,runs,77
+Chandigarh,09-05-2013,KK Cooper,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,8
+Pune,09-05-2013,G Gambhir,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,46
+Delhi,10-05-2013,JD Unadkat,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,field,Royal Challengers Bangalore,runs,4
+Chandigarh,11-05-2013,PA Patel,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,runs,30
+Pune,11-05-2013,MG Johnson,Pune Warriors,Mumbai Indians,Pune Warriors,bat,Mumbai Indians,wickets,5
+Jaipur,12-05-2013,SR Watson,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,wickets,5
+Ranchi,12-05-2013,JH Kallis,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5
+Mumbai,13-05-2013,KA Pollard,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Mumbai Indians,wickets,7
+Bangalore,14-05-2013,AC Gilchrist,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,7
+Chennai,14-05-2013,MS Dhoni,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Chennai Super Kings,runs,33
+Mumbai,15-05-2013,AP Tare,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,14
+Ranchi,15-05-2013,MK Pandey,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,field,Pune Warriors,runs,7
+Dharamsala,16-05-2013,DA Miller,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Kings XI Punjab,runs,7
+Hyderabad,17-05-2013,A Mishra,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,23
+Bangalore,18-05-2013,V Kohli,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,runs,24
+Dharamsala,18-05-2013,Azhar Mahmood,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,runs,50
+Hyderabad,19-05-2013,PA Patel,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,wickets,5
+Pune,19-05-2013,LJ Wright,Pune Warriors,Delhi Daredevils,Pune Warriors,bat,Pune Warriors,runs,38
+Delhi,21-05-2013,MEK Hussey,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,48
+Delhi,22-05-2013,BJ Hodge,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,wickets,4
+Kolkata,24-05-2013,Harbhajan Singh,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,wickets,4
+Kolkata,26-05-2013,KA Pollard,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,23
+Abu Dhabi,16-04-2014,JH Kallis,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,41
+NA,17-04-2014,YS Chahal,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8
+Abu Dhabi,18-04-2014,GJ Maxwell,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Kings XI Punjab,wickets,6
+Abu Dhabi,18-04-2014,AM Rahane,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4
+NA,19-04-2014,JP Duminy,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,Delhi Daredevils,wickets,4
+NA,19-04-2014,PA Patel,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7
+NA,20-04-2014,GJ Maxwell,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,7
+Abu Dhabi,21-04-2014,SK Raina,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,bat,Chennai Super Kings,runs,93
+NA,22-04-2014,GJ Maxwell,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kings XI Punjab,runs,72
+NA,23-04-2014,RA Jadeja,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,runs,7
+NA,24-04-2014,CA Lynn,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,2
+NA,25-04-2014,MM Sharma,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,wickets,7
+NA,25-04-2014,AJ Finch,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,4
+Abu Dhabi,26-04-2014,Sandeep Sharma,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kings XI Punjab,runs,23
+Abu Dhabi,26-04-2014,PV Tambe,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,wickets,6
+NA,27-04-2014,DR Smith,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,wickets,5
+NA,27-04-2014,M Vijay,Delhi Daredevils,Mumbai Indians,Mumbai Indians,bat,Delhi Daredevils,wickets,6
+NA,28-04-2014,Sandeep Sharma,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,field,Kings XI Punjab,wickets,5
+Abu Dhabi,29-04-2014,JP Faulkner,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,tie,NA
+NA,30-04-2014,B Kumar,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,15
+Ranchi,02-05-2014,RA Jadeja,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,runs,34
+Delhi,03-05-2014,KK Nair,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7
+Mumbai,03-05-2014,CJ Anderson,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,bat,Mumbai Indians,wickets,5
+Bangalore,04-05-2014,AB de Villiers,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4
+Ahmedabad,05-05-2014,PV Tambe,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,10
+Delhi,05-05-2014,DR Smith,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,8
+Mumbai,06-05-2014,RG Sharma,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,runs,19
+Cuttack,07-05-2014,GJ Maxwell,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Kings XI Punjab,runs,44
+Delhi,07-05-2014,G Gambhir,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,wickets,8
+Ahmedabad,08-05-2014,B Kumar,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,runs,32
+Bangalore,09-05-2014,Sandeep Sharma,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,field,Kings XI Punjab,runs,32
+Delhi,10-05-2014,DW Steyn,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8
+Mumbai,10-05-2014,DR Smith,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4
+Bangalore,11-05-2014,JP Faulkner,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Rajasthan Royals,wickets,5
+Cuttack,11-05-2014,G Gambhir,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,9
+Hyderabad,12-05-2014,AT Rayudu,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,wickets,7
+Bangalore,13-05-2014,Yuvraj Singh,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Royal Challengers Bangalore,runs,16
+Ranchi,13-05-2014,RA Jadeja,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,wickets,5
+Cuttack,14-05-2014,RV Uthappa,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6
+Hyderabad,14-05-2014,WP Saha,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,6
+Ahmedabad,15-05-2014,AM Rahane,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,Rajasthan Royals,runs,62
+Hyderabad,18-05-2014,UT Yadav,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,7
+Ranchi,18-05-2014,AB de Villiers,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Royal Challengers Bangalore,wickets,5
+Ahmedabad,19-05-2014,MEK Hussey,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,25
+Delhi,19-05-2014,AR Patel,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,4
+Hyderabad,20-05-2014,DA Warner,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,wickets,7
+Kolkata,20-05-2014,RV Uthappa,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8
+Chandigarh,21-05-2014,LMP Simmons,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,7
+Kolkata,22-05-2014,RV Uthappa,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,30
+Ranchi,22-05-2014,DA Warner,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6
+Chandigarh,23-05-2014,SE Marsh,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,16
+Mumbai,23-05-2014,MEK Hussey,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,runs,15
+Bangalore,24-05-2014,MS Dhoni,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,8
+Kolkata,24-05-2014,YK Pathan,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4
+Chandigarh,25-05-2014,M Vohra,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,field,Kings XI Punjab,wickets,7
+Mumbai,25-05-2014,CJ Anderson,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,wickets,5
+Kolkata,27-05-2014,UT Yadav,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,field,Kolkata Knight Riders,runs,28
+Mumbai,28-05-2014,SK Raina,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,wickets,7
+Mumbai,30-05-2014,V Sehwag,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,field,Kings XI Punjab,runs,24
+Bangalore,01-06-2014,MK Pandey,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,3
+Kolkata,08-04-2015,M Morkel,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7
+Chennai,09-04-2015,A Nehra,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,Chennai Super Kings,runs,1
+Pune,10-04-2015,JP Faulkner,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,26
+Chennai,11-04-2015,BB McCullum,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,45
+Kolkata,11-04-2015,CH Gayle,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,3
+Delhi,12-04-2015,DJ Hooda,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3
+Mumbai,12-04-2015,GJ Bailey,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Kings XI Punjab,runs,18
+Bangalore,13-04-2015,DA Warner,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8
+Ahmedabad,14-04-2015,SPD Smith,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,wickets,7
+Pune,15-04-2015,MA Agarwal,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,bat,Delhi Daredevils,wickets,5
+Visakhapatnam,16-04-2015,AM Rahane,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,6
+Mumbai,17-04-2015,A Nehra,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,wickets,6
+Pune,18-04-2015,AD Russell,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4
+Visakhapatnam,18-04-2015,JP Duminy,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,bat,Delhi Daredevils,runs,4
+Ahmedabad,19-04-2015,AM Rahane,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,wickets,8
+Bangalore,19-04-2015,Harbhajan Singh,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,runs,18
+Delhi,20-04-2015,UT Yadav,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6
+Ahmedabad,21-04-2015,SE Marsh,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,tie,NA
+Bangalore,22-04-2015,SK Raina,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Chennai Super Kings,runs,27
+Visakhapatnam,22-04-2015,DA Warner,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,16
+Delhi,23-04-2015,SS Iyer,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,Delhi Daredevils,runs,37
+Ahmedabad,24-04-2015,MA Starc,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9
+Chennai,25-04-2015,BB McCullum,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,97
+Mumbai,25-04-2015,SL Malinga,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,runs,20
+Delhi,26-04-2015,VR Aaron,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,10
+Chandigarh,27-04-2015,TA Boult,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,runs,20
+Chennai,28-04-2015,DJ Bravo,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,2
+Bangalore,29-04-2015,NA,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,NA,NA,NA
+Kolkata,30-04-2015,AD Russell,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7
+Delhi,01-05-2015,NM Coulter-Nile,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,field,Delhi Daredevils,wickets,9
+Mumbai,01-05-2015,AT Rayudu,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,8
+Bangalore,02-05-2015,Mandeep Singh,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7
+Hyderabad,02-05-2015,DA Warner,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,runs,22
+Chandigarh,03-05-2015,LMP Simmons,Kings XI Punjab,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,23
+Mumbai,03-05-2015,AM Rahane,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,Rajasthan Royals,runs,14
+Chennai,04-05-2015,SK Raina,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,24
+Kolkata,04-05-2015,UT Yadav,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,35
+Mumbai,05-05-2015,Harbhajan Singh,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,bat,Mumbai Indians,wickets,5
+Bangalore,06-05-2015,CH Gayle,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,runs,138
+Kolkata,07-05-2015,PP Chawla,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,13
+Mumbai,07-05-2015,EJG Morgan,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,runs,7
+Chennai,08-05-2015,HH Pandya,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,wickets,6
+Kolkata,09-05-2015,AD Russell,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,bat,Kolkata Knight Riders,wickets,1
+Raipur,09-05-2015,MC Henriques,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,6
+Chennai,10-05-2015,RA Jadeja,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,runs,12
+Mumbai,10-05-2015,AB de Villiers,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,39
+Hyderabad,11-05-2015,DA Warner,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,5
+Raipur,12-05-2015,Z Khan,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,bat,Delhi Daredevils,wickets,6
+Chandigarh,13-05-2015,AR Patel,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kings XI Punjab,runs,22
+Mumbai,14-05-2015,HH Pandya,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,5
+Hyderabad,15-05-2015,V Kohli,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,wickets,6
+Chandigarh,16-05-2015,P Negi,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,Chennai Super Kings,wickets,7
+Mumbai,16-05-2015,SR Watson,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,9
+Bangalore,17-05-2015,NA,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,field,NA,NA,NA
+Hyderabad,17-05-2015,MJ McClenaghan,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,wickets,9
+Mumbai,19-05-2015,KA Pollard,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,25
+Pune,20-05-2015,AB de Villiers,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,71
+Ranchi,22-05-2015,A Nehra,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,wickets,3
+Kolkata,24-05-2015,RG Sharma,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,41
+Mumbai,09-04-2016,AM Rahane,Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,bat,Rising Pune Supergiants,wickets,9
+Kolkata,10-04-2016,AD Russell,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,9
+Chandigarh,11-04-2016,AJ Finch,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,5
+Bangalore,12-04-2016,AB de Villiers,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,45
+Kolkata,13-04-2016,RG Sharma,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6
+Rajkot,14-04-2016,AJ Finch,Gujarat Lions,Rising Pune Supergiants,Rising Pune Supergiants,bat,Gujarat Lions,wickets,7
+Delhi,15-04-2016,A Mishra,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,field,Delhi Daredevils,wickets,8
+Hyderabad,16-04-2016,G Gambhir,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,8
+Mumbai,16-04-2016,AJ Finch,Mumbai Indians,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,3
+Bangalore,17-04-2016,Q de Kock,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,7
+Chandigarh,17-04-2016,M Vohra,Kings XI Punjab,Rising Pune Supergiants,Rising Pune Supergiants,bat,Kings XI Punjab,wickets,6
+Hyderabad,18-04-2016,DA Warner,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,7
+Chandigarh,19-04-2016,RV Uthappa,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6
+Mumbai,20-04-2016,RG Sharma,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,wickets,6
+Rajkot,21-04-2016,B Kumar,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,10
+Pune,22-04-2016,AB de Villiers,Rising Pune Supergiants,Royal Challengers Bangalore,Rising Pune Supergiants,field,Royal Challengers Bangalore,runs,13
+Delhi,23-04-2016,SV Samson,Delhi Daredevils,Mumbai Indians,Mumbai Indians,field,Delhi Daredevils,runs,10
+Hyderabad,23-04-2016,Mustafizur Rahman,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5
+Pune,24-04-2016,SA Yadav,Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,2
+Rajkot,24-04-2016,V Kohli,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Gujarat Lions,wickets,6
+Chandigarh,25-04-2016,PA Patel,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,field,Mumbai Indians,runs,25
+Hyderabad,26-04-2016,AB Dinda,Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,field,Rising Pune Supergiants,runs,34
+Delhi,27-04-2016,CH Morris,Delhi Daredevils,Gujarat Lions,Delhi Daredevils,field,Gujarat Lions,runs,1
+Mumbai,28-04-2016,RG Sharma,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,6
+Pune,29-04-2016,DR Smith,Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,3
+Delhi,30-04-2016,CR Brathwaite,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Daredevils,runs,27
+Hyderabad,30-04-2016,DA Warner,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,15
+Pune,01-05-2016,RG Sharma,Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8
+Rajkot,01-05-2016,AR Patel,Gujarat Lions,Kings XI Punjab,Gujarat Lions,field,Kings XI Punjab,runs,23
+Bangalore,02-05-2016,AD Russell,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5
+Rajkot,03-05-2016,RR Pant,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,8
+Kolkata,04-05-2016,AD Russell,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kolkata Knight Riders,runs,7
+Delhi,05-05-2016,AM Rahane,Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,field,Rising Pune Supergiants,wickets,7
+Hyderabad,06-05-2016,B Kumar,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5
+Bangalore,07-05-2016,V Kohli,Royal Challengers Bangalore,Rising Pune Supergiants,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,7
+Chandigarh,07-05-2016,MP Stoinis,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Kings XI Punjab,runs,9
+Kolkata,08-05-2016,P Kumar,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,5
+Visakhapatnam,08-05-2016,A Nehra,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,85
+Chandigarh,09-05-2016,SR Watson,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,field,Royal Challengers Bangalore,runs,1
+Visakhapatnam,10-05-2016,A Zampa,Rising Pune Supergiants,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,4
+Bangalore,11-05-2016,KH Pandya,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6
+Hyderabad,12-05-2016,CH Morris,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,7
+Visakhapatnam,13-05-2016,MP Stoinis,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Kings XI Punjab,wickets,7
+Bangalore,14-05-2016,AB de Villiers,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,Royal Challengers Bangalore,runs,144
+Kolkata,14-05-2016,YK Pathan,Kolkata Knight Riders,Rising Pune Supergiants,Rising Pune Supergiants,bat,Kolkata Knight Riders,wickets,8
+Chandigarh,15-05-2016,HM Amla,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,Sunrisers Hyderabad,wickets,7
+Visakhapatnam,15-05-2016,KH Pandya,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,runs,80
+Kolkata,16-05-2016,V Kohli,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,9
+Visakhapatnam,17-05-2016,AB Dinda,Rising Pune Supergiants,Delhi Daredevils,Rising Pune Supergiants,field,Rising Pune Supergiants,runs,19
+Bangalore,18-05-2016,V Kohli,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,runs,82
+Kanpur,19-05-2016,DR Smith,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,field,Gujarat Lions,wickets,6
+Raipur,20-05-2016,KK Nair,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,field,Delhi Daredevils,wickets,6
+Kanpur,21-05-2016,SK Raina,Gujarat Lions,Mumbai Indians,Gujarat Lions,field,Gujarat Lions,wickets,6
+Visakhapatnam,21-05-2016,MS Dhoni,Rising Pune Supergiants,Kings XI Punjab,Kings XI Punjab,bat,Rising Pune Supergiants,wickets,4
+Kolkata,22-05-2016,YK Pathan,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,22
+Raipur,22-05-2016,V Kohli,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6
+Bangalore,24-05-2016,AB de Villiers,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4
+Delhi,25-05-2016,MC Henriques,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,22
+Delhi,27-05-2016,DA Warner,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,4
+Bangalore,29-05-2016,BCJ Cutting,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,8
+Hyderabad,05-04-2017,Yuvraj Singh,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,35
+Pune,06-04-2017,SPD Smith,Rising Pune Supergiant,Mumbai Indians,Rising Pune Supergiant,field,Rising Pune Supergiant,wickets,7
+Rajkot,07-04-2017,CA Lynn,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,10
+Bangalore,08-04-2017,KM Jadhav,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,15
+Indore,08-04-2017,GJ Maxwell,Kings XI Punjab,Rising Pune Supergiant,Kings XI Punjab,field,Kings XI Punjab,wickets,6
+Hyderabad,09-04-2017,Rashid Khan,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,9
+Mumbai,09-04-2017,N Rana,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,4
+Indore,10-04-2017,AR Patel,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kings XI Punjab,wickets,8
+Pune,11-04-2017,SV Samson,Rising Pune Supergiant,Delhi Daredevils,Rising Pune Supergiant,field,Delhi Daredevils,runs,97
+Mumbai,12-04-2017,JJ Bumrah,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,wickets,4
+Kolkata,13-04-2017,SP Narine,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8
+Bangalore,14-04-2017,KA Pollard,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,4
+Rajkot,14-04-2017,AJ Tye,Gujarat Lions,Rising Pune Supergiant,Gujarat Lions,field,Gujarat Lions,wickets,7
+Delhi,15-04-2017,CJ Anderson,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Delhi Daredevils,runs,51
+Kolkata,15-04-2017,RV Uthappa,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,17
+Bangalore,16-04-2017,BA Stokes,Royal Challengers Bangalore,Rising Pune Supergiant,Royal Challengers Bangalore,field,Rising Pune Supergiant,runs,27
+Mumbai,16-04-2017,N Rana,Mumbai Indians,Gujarat Lions,Mumbai Indians,field,Mumbai Indians,wickets,6
+Delhi,17-04-2017,NM Coulter-Nile,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,wickets,4
+Hyderabad,17-04-2017,B Kumar,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,runs,5
+Rajkot,18-04-2017,CH Gayle,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,field,Royal Challengers Bangalore,runs,21
+Hyderabad,19-04-2017,KS Williamson,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,15
+Indore,20-04-2017,JC Buttler,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8
+Kolkata,21-04-2017,SK Raina,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,4
+Mumbai,22-04-2017,MJ McClenaghan,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,runs,14
+Pune,22-04-2017,MS Dhoni,Rising Pune Supergiant,Sunrisers Hyderabad,Rising Pune Supergiant,field,Rising Pune Supergiant,wickets,6
+Kolkata,23-04-2017,NM Coulter-Nile,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,82
+Rajkot,23-04-2017,HM Amla,Gujarat Lions,Kings XI Punjab,Gujarat Lions,field,Kings XI Punjab,runs,26
+Mumbai,24-04-2017,BA Stokes,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,field,Rising Pune Supergiant,runs,3
+Pune,26-04-2017,RV Uthappa,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7
+Bangalore,27-04-2017,AJ Tye,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,7
+Chandigarh,28-04-2017,Rashid Khan,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,runs,26
+Kolkata,28-04-2017,G Gambhir,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7
+Pune,29-04-2017,LH Ferguson,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rising Pune Supergiant,runs,61
+Rajkot,29-04-2017,KH Pandya,Gujarat Lions,Mumbai Indians,Gujarat Lions,bat,Mumbai Indians,tie,NA
+Chandigarh,30-04-2017,Sandeep Sharma,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,field,Kings XI Punjab,wickets,10
+Hyderabad,30-04-2017,DA Warner,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,48
+Mumbai,01-05-2017,RG Sharma,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Mumbai Indians,wickets,5
+Pune,01-05-2017,BA Stokes,Rising Pune Supergiant,Gujarat Lions,Rising Pune Supergiant,field,Rising Pune Supergiant,wickets,5
+Delhi,02-05-2017,Mohammed Shami,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,field,Delhi Daredevils,wickets,6
+Kolkata,03-05-2017,RA Tripathi,Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,field,Rising Pune Supergiant,wickets,4
+Delhi,04-05-2017,RR Pant,Delhi Daredevils,Gujarat Lions,Delhi Daredevils,field,Delhi Daredevils,wickets,7
+Bangalore,05-05-2017,Sandeep Sharma,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,field,Kings XI Punjab,runs,19
+Delhi,06-05-2017,LMP Simmons,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,field,Mumbai Indians,runs,146
+Hyderabad,06-05-2017,JD Unadkat,Sunrisers Hyderabad,Rising Pune Supergiant,Sunrisers Hyderabad,field,Rising Pune Supergiant,runs,12
+Bangalore,07-05-2017,SP Narine,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6
+Chandigarh,07-05-2017,DR Smith,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,wickets,6
+Hyderabad,08-05-2017,S Dhawan,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,wickets,7
+Chandigarh,09-05-2017,MM Sharma,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kings XI Punjab,runs,14
+Kanpur,10-05-2017,SS Iyer,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,2
+Mumbai,11-05-2017,WP Saha,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Kings XI Punjab,runs,7
+Delhi,12-05-2017,KK Nair,Delhi Daredevils,Rising Pune Supergiant,Delhi Daredevils,bat,Delhi Daredevils,runs,7
+Kanpur,13-05-2017,Mohammed Siraj,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8
+Kolkata,13-05-2017,AT Rayudu,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,runs,9
+Delhi,14-05-2017,HV Patel,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,10
+Pune,14-05-2017,JD Unadkat,Rising Pune Supergiant,Kings XI Punjab,Rising Pune Supergiant,field,Rising Pune Supergiant,wickets,9
+Mumbai,16-05-2017,Washington Sundar,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,field,Rising Pune Supergiant,runs,20
+Bangalore,17-05-2017,NM Coulter-Nile,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7
+Bangalore,19-05-2017,KV Sharma,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,6
+Hyderabad,21-05-2017,KH Pandya,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,bat,Mumbai Indians,runs,1
+Mumbai,07-04-2018,DJ Bravo,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,1
+Chandigarh,08-04-2018,KL Rahul,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,field,Kings XI Punjab,wickets,6
+Kolkata,08-04-2018,SP Narine,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,4
+Hyderabad,09-04-2018,S Dhawan,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,9
+Chennai,10-04-2018,SW Billings,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,wickets,5
+Jaipur,11-04-2018,SV Samson,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,Rajasthan Royals,runs,10
+Hyderabad,12-04-2018,Rashid Khan,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,1
+Bangalore,13-04-2018,UT Yadav,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4
+Kolkata,14-04-2018,B Stanlake,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5
+Mumbai,14-04-2018,JJ Roy,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,wickets,7
+Bangalore,15-04-2018,SV Samson,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Rajasthan Royals,runs,19
+Chandigarh,15-04-2018,CH Gayle,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Kings XI Punjab,runs,4
+Kolkata,16-04-2018,N Rana,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,Kolkata Knight Riders,runs,71
+Mumbai,17-04-2018,RG Sharma,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,runs,46
+Jaipur,18-04-2018,N Rana,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7
+Chandigarh,19-04-2018,CH Gayle,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,Kings XI Punjab,runs,15
+Pune,20-04-2018,SR Watson,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,64
+Bangalore,21-04-2018,AB de Villiers,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,6
+Kolkata,21-04-2018,KL Rahul,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,9
+Hyderabad,22-04-2018,AT Rayudu,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,runs,4
+Jaipur,22-04-2018,JC Archer,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,wickets,3
+Delhi,23-04-2018,AS Rajpoot,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,field,Kings XI Punjab,runs,4
+Mumbai,24-04-2018,Rashid Khan,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,31
+Bangalore,25-04-2018,MS Dhoni,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5
+Hyderabad,26-04-2018,AS Rajpoot,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,runs,13
+Delhi,27-04-2018,SS Iyer,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Daredevils,runs,55
+Pune,28-04-2018,RG Sharma,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,8
+Bangalore,29-04-2018,CA Lynn,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6
+Jaipur,29-04-2018,KS Williamson,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,11
+Pune,30-04-2018,SR Watson,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,Chennai Super Kings,runs,13
+Bangalore,01-05-2018,TG Southee,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,runs,14
+Delhi,02-05-2018,RR Pant,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,Delhi Daredevils,runs,4
+Kolkata,03-05-2018,SP Narine,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6
+Indore,04-05-2018,SA Yadav,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,6
+Hyderabad,05-05-2018,Rashid Khan,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,bat,Sunrisers Hyderabad,wickets,7
+Pune,05-05-2018,RA Jadeja,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,wickets,6
+Indore,06-05-2018,Mujeeb Ur Rahman,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Kings XI Punjab,wickets,6
+Mumbai,06-05-2018,HH Pandya,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,13
+Hyderabad,07-05-2018,KS Williamson,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,5
+Jaipur,08-05-2018,JC Buttler,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,Rajasthan Royals,runs,15
+Kolkata,09-05-2018,Ishan Kishan,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,runs,102
+Delhi,10-05-2018,S Dhawan,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,Sunrisers Hyderabad,wickets,9
+Jaipur,11-05-2018,JC Buttler,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,wickets,4
+Delhi,12-05-2018,AB de Villiers,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,5
+Indore,12-05-2018,SP Narine,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,field,Kolkata Knight Riders,runs,31
+Mumbai,13-05-2018,JC Buttler,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7
+Pune,13-05-2018,AT Rayudu,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,wickets,8
+Indore,14-05-2018,UT Yadav,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,10
+Kolkata,15-05-2018,Kuldeep Yadav,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6
+Mumbai,16-05-2018,JJ Bumrah,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Mumbai Indians,runs,3
+Bangalore,17-05-2018,AB de Villiers,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,14
+Delhi,18-05-2018,HV Patel,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,Delhi Daredevils,runs,34
+Hyderabad,19-05-2018,CA Lynn,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,5
+Jaipur,19-05-2018,S Gopal,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Rajasthan Royals,runs,30
+Delhi,20-05-2018,A Mishra,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,Delhi Daredevils,runs,11
+Pune,20-05-2018,L Ngidi,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,field,Chennai Super Kings,wickets,5
+Mumbai,22-05-2018,F du Plessis,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,2
+Kolkata,23-05-2018,AD Russell,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,25
+Kolkata,25-05-2018,Rashid Khan,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,14
+Mumbai,27-05-2018,SR Watson,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,wickets,8
+Chennai,23-03-2019,Harbhajan Singh,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,wickets,7
+Kolkata,24-03-2019,AD Russell,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,6
+Mumbai,24-03-2019,RR Pant,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals,runs,37
+Jaipur,25-03-2019,CH Gayle,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,field,Kings XI Punjab,runs,14
+Delhi,26-03-2019,SR Watson,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,wickets,6
+Kolkata,27-03-2019,AD Russell,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kolkata Knight Riders,runs,28
+Bangalore,28-03-2019,JJ Bumrah,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,runs,6
+Hyderabad,29-03-2019,Rashid Khan,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,wickets,5
+Chandigarh,30-03-2019,MA Agarwal,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,field,Kings XI Punjab,wickets,8
+Delhi,30-03-2019,PP Shaw,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,tie,NA
+Chennai,31-03-2019,MS Dhoni,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,8
+Hyderabad,31-03-2019,JM Bairstow,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,118
+Chandigarh,01-04-2019,SM Curran,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,Kings XI Punjab,runs,14
+Jaipur,02-04-2019,S Gopal,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,wickets,7
+Mumbai,03-04-2019,HH Pandya,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,37
+Delhi,04-04-2019,JM Bairstow,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5
+Bangalore,05-04-2019,AD Russell,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,5
+Chennai,06-04-2019,Harbhajan Singh,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,22
+Hyderabad,06-04-2019,AS Joseph,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,runs,40
+Bangalore,07-04-2019,K Rabada,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,4
+Jaipur,07-04-2019,HF Gurney,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,8
+Chandigarh,08-04-2019,KL Rahul,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Kings XI Punjab,wickets,6
+Chennai,09-04-2019,DL Chahar,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,wickets,7
+Mumbai,10-04-2019,KA Pollard,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Mumbai Indians,wickets,3
+Jaipur,11-04-2019,MS Dhoni,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,4
+Kolkata,12-04-2019,S Dhawan,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,7
+Chandigarh,13-04-2019,AB de Villiers,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,8
+Mumbai,13-04-2019,JC Buttler,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4
+Hyderabad,14-04-2019,KMA Paul,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals,runs,39
+Kolkata,14-04-2019,Imran Tahir,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5
+Mumbai,15-04-2019,SL Malinga,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,wickets,5
+Chandigarh,16-04-2019,R Ashwin,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,12
+Hyderabad,17-04-2019,DA Warner,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Sunrisers Hyderabad,wickets,6
+Delhi,18-04-2019,HH Pandya,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,40
+Kolkata,19-04-2019,V Kohli,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,runs,10
+Delhi,20-04-2019,SS Iyer,Delhi Capitals,Kings XI Punjab,Delhi Capitals,field,Delhi Capitals,wickets,5
+Jaipur,20-04-2019,SPD Smith,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,wickets,5
+Bangalore,21-04-2019,PA Patel,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,runs,1
+Hyderabad,21-04-2019,KK Ahmed,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,9
+Jaipur,22-04-2019,RR Pant,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6
+Chennai,23-04-2019,SR Watson,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,wickets,6
+Bangalore,24-04-2019,AB de Villiers,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,runs,17
+Kolkata,25-04-2019,VR Aaron,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,3
+Chennai,26-04-2019,RG Sharma,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,runs,46
+Jaipur,27-04-2019,JD Unadkat,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,wickets,7
+Delhi,28-04-2019,S Dhawan,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,runs,16
+Kolkata,28-04-2019,AD Russell,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,runs,34
+Hyderabad,29-04-2019,DA Warner,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,runs,45
+Bangalore,30-04-2019,NA,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,NA,NA,NA
+Chennai,01-05-2019,MS Dhoni,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,runs,80
+Mumbai,02-05-2019,JJ Bumrah,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,tie,NA
+Chandigarh,03-05-2019,Shubman Gill,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,7
+Bangalore,04-05-2019,SO Hetmyer,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,wickets,4
+Delhi,04-05-2019,A Mishra,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,wickets,5
+Chandigarh,05-05-2019,KL Rahul,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,field,Kings XI Punjab,wickets,6
+Mumbai,05-05-2019,HH Pandya,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,9
+Chennai,07-05-2019,SA Yadav,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Mumbai Indians,wickets,6
+Visakhapatnam,08-05-2019,RR Pant,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,wickets,2
+Visakhapatnam,10-05-2019,F du Plessis,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,wickets,6
+Hyderabad,12-05-2019,JJ Bumrah,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,runs,1
+Abu Dhabi,19-09-2020,AT Rayudu,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,5
+Dubai,20-09-2020,MP Stoinis,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,Delhi Capitals,tie,NA
+Dubai,21-09-2020,YS Chahal,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,10
+Sharjah,22-09-2020,SV Samson,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,runs,16
+Abu Dhabi,23-09-2020,RG Sharma,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,49
+Dubai,24-09-2020,KL Rahul,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kings XI Punjab,runs,97
+Dubai,25-09-2020,PP Shaw,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,runs,44
+Abu Dhabi,26-09-2020,Shubman Gill,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,wickets,7
+Sharjah,27-09-2020,SV Samson,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,4
+Dubai,28-09-2020,AB de Villiers,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,tie,NA
+Abu Dhabi,29-09-2020,Rashid Khan,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,runs,15
+Dubai,30-09-2020,Shivam Mavi,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,37
+Abu Dhabi,01-10-2020,KA Pollard,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Mumbai Indians,runs,48
+Dubai,02-10-2020,PK Garg,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,7
+Abu Dhabi,03-10-2020,YS Chahal,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,wickets,8
+Sharjah,03-10-2020,SS Iyer,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,runs,18
+Dubai,04-10-2020,SR Watson,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,Chennai Super Kings,wickets,10
+Sharjah,04-10-2020,TA Boult,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,runs,34
+Dubai,05-10-2020,AR Patel,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,runs,59
+Abu Dhabi,06-10-2020,SA Yadav,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,runs,57
+Abu Dhabi,07-10-2020,RA Tripathi,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,10
+Dubai,08-10-2020,JM Bairstow,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,69
+Sharjah,09-10-2020,R Ashwin,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,runs,46
+Abu Dhabi,10-10-2020,KD Karthik,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,2
+Dubai,10-10-2020,V Kohli,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,37
+Abu Dhabi,11-10-2020,Q de Kock,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,wickets,5
+Dubai,11-10-2020,R Tewatia,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,wickets,5
+Sharjah,12-10-2020,AB de Villiers,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,82
+Dubai,13-10-2020,RA Jadeja,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,20
+Dubai,14-10-2020,A Nortje,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,runs,13
+Sharjah,15-10-2020,KL Rahul,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,wickets,8
+Abu Dhabi,16-10-2020,Q de Kock,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,wickets,8
+Dubai,17-10-2020,AB de Villiers,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,wickets,7
+Sharjah,17-10-2020,S Dhawan,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,wickets,5
+Abu Dhabi,18-10-2020,LH Ferguson,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,tie,NA
+Dubai,18-10-2020,KL Rahul,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Kings XI Punjab,tie,NA
+Abu Dhabi,19-10-2020,JC Buttler,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,wickets,7
+Dubai,20-10-2020,S Dhawan,Delhi Capitals,Kings XI Punjab,Delhi Capitals,bat,Kings XI Punjab,wickets,5
+Abu Dhabi,21-10-2020,Mohammed Siraj,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Royal Challengers Bangalore,wickets,8
+Dubai,22-10-2020,MK Pandey,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,8
+Sharjah,23-10-2020,TA Boult,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,10
+Abu Dhabi,24-10-2020,CV Varun,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Kolkata Knight Riders,runs,59
+Dubai,24-10-2020,CJ Jordan,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kings XI Punjab,runs,12
+Abu Dhabi,25-10-2020,BA Stokes,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,wickets,8
+Dubai,25-10-2020,RD Gaikwad,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings,wickets,8
+Sharjah,26-10-2020,CH Gayle,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,wickets,8
+Dubai,27-10-2020,WP Saha,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,runs,88
+Abu Dhabi,28-10-2020,SA Yadav,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,5
+Dubai,29-10-2020,RD Gaikwad,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,6
+Abu Dhabi,30-10-2020,BA Stokes,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,wickets,7
+Dubai,31-10-2020,Ishan Kishan,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,wickets,9
+Sharjah,31-10-2020,Sandeep Sharma,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,5
+Abu Dhabi,01-11-2020,RD Gaikwad,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,9
+Dubai,01-11-2020,PJ Cummins,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,60
+Abu Dhabi,02-11-2020,A Nortje,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,6
+Sharjah,03-11-2020,S Nadeem,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,10
+Dubai,05-11-2020,JJ Bumrah,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,runs,57
+Abu Dhabi,06-11-2020,KS Williamson,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6
+Abu Dhabi,08-11-2020,MP Stoinis,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,runs,17
+Dubai,10-11-2020,TA Boult,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,wickets,5
